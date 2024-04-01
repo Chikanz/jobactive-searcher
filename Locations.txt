@@ -1,0 +1,499 @@
+0
+: 
+{value: '1', label: 'ACT (ALL)'}
+1
+: 
+{value: '19AACQ', label: 'ACT - Canberra & Queanbeyan'}
+2
+: 
+{value: '2', label: 'NSW (ALL)'}
+3
+: 
+{value: '21', label: 'NSW - Sydney (ALL)'}
+4
+: 
+{value: '21CIWS', label: 'NSW - Sydney - City & Inner West'}
+5
+: 
+{value: '21EASY', label: 'NSW - Sydney - Eastern Sydney'}
+6
+: 
+{value: '21NSCC', label: 'NSW - Sydney - Northern Sydney & Central Coast'}
+7
+: 
+{value: '21SGSS', label: 'NSW - Sydney - St George & Sutherland Shire'}
+8
+: 
+{value: '21WSNE', label: 'NSW - Sydney - Western Sydney & Nepean'}
+9
+: 
+{value: '25', label: 'NSW - Remote (ALL)'}
+10
+: 
+{value: '25FRWR', label: 'NSW - Remote - Far West Region NSW'}
+11
+: 
+{value: '25UPDR', label: 'NSW - Remote - Upper Darling NSW'}
+12
+: 
+{value: '29', label: 'NSW - Regional (ALL)'}
+13
+: 
+{value: '29COHA', label: 'NSW - Regional - Coffs Harbour'}
+14
+: 
+{value: '29FRNC', label: 'NSW - Regional - Far North Coast '}
+15
+: 
+{value: '29GOSR', label: 'NSW - Regional - Goulburn & Southern Ranges '}
+16
+: 
+{value: '29ILSH', label: 'NSW - Regional - Illawarra Shoalhaven'}
+17
+: 
+{value: '29LMNC', label: 'NSW - Regional - Lower Mid North Coast'}
+18
+: 
+{value: '29MDNC', label: 'NSW - Regional - Mid North Coast'}
+19
+: 
+{value: '29MRBH', label: 'NSW - Regional - Murray, Riverina & Broken Hill'}
+20
+: 
+{value: '29NEHU', label: 'NSW - Regional - Newcastle & Hunter '}
+21
+: 
+{value: '29NENW', label: 'NSW - Regional - New England & North West NSW'}
+22
+: 
+{value: '29ORCW', label: 'NSW - Regional - Orana and Central West NSW'}
+23
+: 
+{value: '29SNOW', label: 'NSW - Regional - Snowy Mountains'}
+24
+: 
+{value: '29SOCO', label: 'NSW - Regional - South Coast'}
+25
+: 
+{value: '29TWHE', label: 'NSW - Regional - Tweed Heads  '}
+26
+: 
+{value: '3', label: 'NT (ALL)'}
+27
+: 
+{value: '31DRWN', label: 'NT - Darwin'}
+28
+: 
+{value: '39', label: 'NT - Regional and Remote (ALL)'}
+29
+: 
+{value: '39ALSP', label: 'NT - Regional and Remote - Alice Springs'}
+30
+: 
+{value: '39ALWR', label: "NT - Regional and Remote - Galiwin'ku Region"}
+31
+: 
+{value: '39ASPD', label: 'NT - Regional and Remote - Alice Springs District'}
+32
+: 
+{value: '39CERD', label: 'NT - Regional and Remote - Central Arnhem Region'}
+33
+: 
+{value: '39DRDR', label: 'NT - Regional and Remote - Darwin Daly Region'}
+34
+: 
+{value: '39FWAR', label: 'NT - Regional and Remote - Far West Alice Region'}
+35
+: 
+{value: '39GLFR', label: 'NT - Regional and Remote - Gulf Region'}
+36
+: 
+{value: '39GRTR', label: 'NT - Regional and Remote - Groote Region'}
+37
+: 
+{value: '39GYKR', label: 'NT - Regional and Remote - Gapuwiyak-Yirrkala Region'}
+38
+: 
+{value: '39KTHR', label: 'NT - Regional and Remote - Katherine Region'}
+39
+: 
+{value: '39MNGR', label: 'NT - Regional and Remote - Maningrida Region'}
+40
+: 
+{value: '39MRMR', label: 'NT - Regional and Remote - Milingimbi/Ramingining Region'}
+41
+: 
+{value: '39NEAR', label: 'NT - Regional and Remote - North East Alice Region'}
+42
+: 
+{value: '39NGKR', label: 'NT - Regional and Remote - North Barkly Region'}
+43
+: 
+{value: '39NGNR', label: 'NT - Regional and Remote - Ngukurr/Numbulwar Region'}
+44
+: 
+{value: '39NWAR', label: 'NT - Regional and Remote - North West Alice Region'}
+45
+: 
+{value: '39SEAR', label: 'NT - Regional and Remote - South East Alice Region'}
+46
+: 
+{value: '39SEBR', label: 'NT - Regional and Remote - South East Barkly Region'}
+47
+: 
+{value: '39SWAR', label: 'NT - Regional and Remote - South West Alice Region'}
+48
+: 
+{value: '39TWIR', label: 'NT - Regional and Remote - Tiwi Region'}
+49
+: 
+{value: '39VCRR', label: 'NT - Regional and Remote - Victoria River Region'}
+50
+: 
+{value: '39WACR', label: 'NT - Regional and Remote - West Alice Region'}
+51
+: 
+{value: '39WAHR', label: 'NT - Regional and Remote - West Arnhem Region'}
+52
+: 
+{value: '39WDYR', label: 'NT - Regional and Remote - Wadeye Region'}
+53
+: 
+{value: '4', label: 'QLD (ALL)'}
+54
+: 
+{value: '41', label: 'QLD - Brisbane & Gold Coast (ALL)'}
+55
+: 
+{value: '41BRIS', label: 'QLD - Brisbane & Gold Coast - Brisbane & Surrounds'}
+56
+: 
+{value: '41GOCO', label: 'QLD - Brisbane & Gold Coast - Gold Coast '}
+57
+: 
+{value: '41IPSW', label: 'QLD - Brisbane & Gold Coast - Ipswich'}
+58
+: 
+{value: '41LOGN', label: 'QLD - Brisbane & Gold Coast - Logan'}
+59
+: 
+{value: '41ONBR', label: 'QLD - Brisbane & Gold Coast - Outer North Brisbane '}
+60
+: 
+{value: '45', label: 'QLD - Remote (ALL)'}
+61
+: 
+{value: '45ARCR', label: 'QLD - Remote - Aurukun/Coen Region'}
+62
+: 
+{value: '45CARR', label: 'QLD - Remote - Carpentaria Region'}
+63
+: 
+{value: '45CECR', label: 'QLD - Remote - Central Cape Region'}
+64
+: 
+{value: '45CEWR', label: 'QLD - Remote - Central West Region'}
+65
+: 
+{value: '45CLCR', label: 'QLD - Remote - Cloncurry Region'}
+66
+: 
+{value: '45COOR', label: 'QLD - Remote - Cook Region'}
+67
+: 
+{value: '45DOOR', label: 'QLD - Remote - Doomadgee Region '}
+68
+: 
+{value: '45KWPR', label: 'QLD - Remote - Kowanyama/Pormpuraaw Region'}
+69
+: 
+{value: '45NRPR', label: 'QLD - Remote - Northern Peninsula Area'}
+70
+: 
+{value: '45PLMI', label: 'QLD - Remote - Palm Island'}
+71
+: 
+{value: '45SWSR', label: 'QLD - Remote - South West Region'}
+72
+: 
+{value: '45TRSI', label: 'QLD - Remote - Torres Strait Islands'}
+73
+: 
+{value: '45WELI', label: 'QLD - Remote - Wellesley Islands'}
+74
+: 
+{value: '45WIAR', label: 'QLD - Remote - West Isa/Alpurrurulam Region'}
+75
+: 
+{value: '45WSCR', label: 'QLD - Remote - Western Cape Region'}
+76
+: 
+{value: '45WSTR', label: 'QLD - Remote - Western Tablelands Region'}
+77
+: 
+{value: '49', label: 'QLD - Regional (ALL)'}
+78
+: 
+{value: '49CRNS', label: 'QLD - Regional - Cairns '}
+79
+: 
+{value: '49GYMP', label: 'QLD - Regional - Gympie'}
+80
+: 
+{value: '49MCKY', label: 'QLD - Regional - Mackay '}
+81
+: 
+{value: '49MIWQ', label: 'QLD - Regional - Mt Isa & Western Qld'}
+82
+: 
+{value: '49RGCH', label: 'QLD - Regional - Rockhampton, Gladstone & Central Highlands'}
+83
+: 
+{value: '49SUNC', label: 'QLD - Regional - Sunshine Coast '}
+84
+: 
+{value: '49SWSQ', label: 'QLD - Regional - South West Qld '}
+85
+: 
+{value: '49TOOW', label: 'QLD - Regional - Toowoomba'}
+86
+: 
+{value: '49TWNQ', label: 'QLD - Regional - Townsville & North Qld '}
+87
+: 
+{value: '49WBFC', label: 'QLD - Regional - Wide Bay and Fraser Coast '}
+88
+: 
+{value: '5', label: 'SA (ALL)'}
+89
+: 
+{value: '51', label: 'SA - Adelaide (ALL)'}
+90
+: 
+{value: '51CADL', label: 'SA - Adelaide - Central Adelaide'}
+91
+: 
+{value: '51NADL', label: 'SA - Adelaide - Northern Adelaide'}
+92
+: 
+{value: '51SADL', label: 'SA - Adelaide - Southern Adelaide '}
+93
+: 
+{value: '55', label: 'SA - Remote (ALL)'}
+94
+: 
+{value: '55APYL', label: 'SA - Remote - Anangu Pitjantjatjara Yankunytjatjara Lands'}
+95
+: 
+{value: '55EYRE', label: 'SA - Remote - Eyre Region'}
+96
+: 
+{value: '55FFNR', label: 'SA - Remote - Flinders and Far North Region'}
+97
+: 
+{value: '55FRWR', label: 'SA - Remote - Far West Region'}
+98
+: 
+{value: '59', label: 'SA - Regional (ALL)'}
+99
+: 
+{value: '59ADLH', label: 'SA - Regional - Adelaide Hills  '}
+[100 … 163]
+100
+: 
+{value: '59BRSS', label: 'SA - Regional - Barossa '}
+101
+: 
+{value: '59CVMN', label: 'SA - Regional - Clare Valley & Mid North'}
+102
+: 
+{value: '59FPKI', label: 'SA - Regional - Fleurieu Peninsula & Kangaroo Island '}
+103
+: 
+{value: '59MGLC', label: 'SA - Regional - Mt Gambier & Limestone Coast '}
+104
+: 
+{value: '59PLNC', label: 'SA - Regional - Port Lincoln '}
+105
+: 
+{value: '59RVRL', label: 'SA - Regional - Riverland  '}
+106
+: 
+{value: '59WHPA', label: 'SA - Regional - Whyalla & Port Augusta'}
+107
+: 
+{value: '59YRKP', label: 'SA - Regional - Yorke Peninsula '}
+108
+: 
+{value: '6', label: 'TAS (ALL)'}
+109
+: 
+{value: '61HRBT', label: 'TAS - Hobart & Southern Tasmania'}
+110
+: 
+{value: '69', label: 'TAS - Regional (ALL)'}
+111
+: 
+{value: '69DVPW', label: 'TAS - Regional - West & North West'}
+112
+: 
+{value: '69LCNE', label: 'TAS - Regional - Launceston & North East'}
+113
+: 
+{value: '7', label: 'VIC (ALL)'}
+114
+: 
+{value: '71', label: 'VIC - Melbourne (ALL)'}
+115
+: 
+{value: '71BASU', label: 'VIC - Melbourne - Bayside & Peninsula Suburbs'}
+116
+: 
+{value: '71CBDS', label: 'VIC - Melbourne - CBD & Surrounds'}
+117
+: 
+{value: '71NMEL', label: 'VIC - Melbourne - North Melbourne'}
+118
+: 
+{value: '71SOEA', label: 'VIC - Melbourne - South East'}
+119
+: 
+{value: '71WMEL', label: 'VIC - Melbourne - West Melbourne'}
+120
+: 
+{value: '79', label: 'VIC - Regional (ALL)'}
+121
+: 
+{value: '79ALWO', label: 'VIC - Regional - Albury - Wodonga '}
+122
+: 
+{value: '79BACH', label: 'VIC - Regional - Ballarat and Central Highlands'}
+123
+: 
+{value: '79BGCV', label: 'VIC - Regional - Bendigo, Gisborne & Central VIC'}
+124
+: 
+{value: '79GESC', label: 'VIC - Regional - Geelong and Surf Coast '}
+125
+: 
+{value: '79GIPP', label: 'VIC - Regional - East Gippsland'}
+126
+: 
+{value: '79HOGR', label: 'VIC - Regional - Horsham & Grampians'}
+127
+: 
+{value: '79MISU', label: 'VIC - Regional - Mildura & Sunraysia'}
+128
+: 
+{value: '79SHGV', label: 'VIC - Regional - Shepparton and Goulburn Valley'}
+129
+: 
+{value: '79SHMM', label: 'VIC - Regional - Swan Hill & Mid Murray'}
+130
+: 
+{value: '79TRLV', label: 'VIC - Regional - Latrobe Valley'}
+131
+: 
+{value: '79WPSW', label: 'VIC - Regional - Warrnambool, Portland & South West Coast'}
+132
+: 
+{value: '79WSAR', label: 'VIC - Regional - Wangaratta, Seymour & Alpine Region'}
+133
+: 
+{value: '8', label: 'WA (ALL)'}
+134
+: 
+{value: '81', label: 'WA - Perth (ALL)'}
+135
+: 
+{value: '81ESTS', label: 'WA - Perth - Eastern Suburbs '}
+136
+: 
+{value: '81INWS', label: 'WA - Perth - Inner and Western Suburbs '}
+137
+: 
+{value: '81NRTS', label: 'WA - Perth - Northern Suburbs '}
+138
+: 
+{value: '81SETS', label: 'WA - Perth - South Eastern Suburbs'}
+139
+: 
+{value: '81SWTN', label: 'WA - Perth - South Western Suburbs'}
+140
+: 
+{value: '85', label: 'WA - Remote (ALL)'}
+141
+: 
+{value: '85CHCI', label: 'WA - Remote - Christmas-Cocos Islands'}
+142
+: 
+{value: '85DGRR', label: 'WA - Remote - Derby/Gibb River Region '}
+143
+: 
+{value: '85ESKR', label: 'WA - Remote - East Kimberley Region '}
+144
+: 
+{value: '85FZVR', label: 'WA - Remote - Fitzroy Valley Region'}
+145
+: 
+{value: '85GSCI', label: 'WA - Remote - Gascoyne Region '}
+146
+: 
+{value: '85HCTR', label: 'WA - Remote - Halls Creek/Tjurabalan Region'}
+147
+: 
+{value: '85KLLR', label: 'WA - Remote - Kullarri Region'}
+148
+: 
+{value: '85KMNR', label: 'WA - Remote - Kambalda/Norseman Region'}
+149
+: 
+{value: '85KRRR', label: 'WA - Remote - Karratha Region'}
+150
+: 
+{value: '85MWER', label: 'WA - Remote - Mid West - East Region'}
+151
+: 
+{value: '85MWWR', label: 'WA - Remote - Mid West - West Region'}
+152
+: 
+{value: '85NGYL', label: 'WA - Remote - Ngaanyatjarra Lands'}
+153
+: 
+{value: '85PRHR', label: 'WA - Remote - Port Hedland Region'}
+154
+: 
+{value: '85WSDR', label: 'WA - Remote - Western Desert Region'}
+155
+: 
+{value: '85YLKR', label: 'WA - Remote - Yaaliku Region'}
+156
+: 
+{value: '89', label: 'WA - Regional (ALL)'}
+157
+: 
+{value: '89ALGS', label: 'WA - Regional - Albany and Great Southern'}
+158
+: 
+{value: '89BRME', label: 'WA - Regional - Broome'}
+159
+: 
+{value: '89ESPR', label: 'WA - Regional - Esperance'}
+160
+: 
+{value: '89GRLD', label: 'WA - Regional - Geraldton'}
+161
+: 
+{value: '89KALG', label: 'WA - Regional - Kalgoorlie'}
+162
+: 
+{value: '89SWST', label: 'WA - Regional - South West'}
+163
+: 
+{value: '89WDWH', label: 'WA - Regional - Midlands/Wheatbelt '}
+length
+: 
+164
+[[Prototype]]
+: 
+Array(0)

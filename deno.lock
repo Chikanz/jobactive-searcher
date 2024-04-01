@@ -1,0 +1,12 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/x/axiod/mod.ts": "https://deno.land/x/axiod@0.23.2/mod.ts"
+  },
+  "remote": {
+    "https://deno.land/x/axiod@0.23.2/helpers.ts": "b54a9c892383b24e29ed3fe55b11c6b521120c83c8e3d090bd6c09a86b37ccc6",
+    "https://deno.land/x/axiod@0.23.2/mod.ts": "8a630a2aeee1f8adf42ce4c69488d59ed2dfb5e96cc9d9d38b3bbfd031fb15ca",
+    "https://deno.land/x/axiod@0.23.2/mods/url-join.ts": "6a135557026b2fc5b349a67c4b141d539b76ded8e73940af87eb9b8cefe2d76d",
+    "https://deno.land/x/url_join@1.0.0/mod.ts": "d3c7007e3ab15594e54d5b90dce623b3e274a726e0cdf57858e7ecab77a0166c"
+  }
+}
